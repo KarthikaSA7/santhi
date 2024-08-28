@@ -131,7 +131,7 @@ nav {
     color: var(--text-light);
 }
 .header {
-    background-image: linear-gradient(177deg, rgba(145, 79, 30, 0.86), rgba(73, 22, 4, 0.8)), url("../images/banner-img.jpg");
+    background-image: linear-gradient(177deg, rgba(145, 79, 30, 0.86), rgba(73, 22, 4, 0.8)), url("images/banner-img.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
